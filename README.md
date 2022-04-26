@@ -1,4 +1,4 @@
-# Study Assits
+# Study Assist
 
 ## サイト概要
 
